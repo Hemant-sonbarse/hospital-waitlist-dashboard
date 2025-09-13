@@ -84,4 +84,8 @@ The dashboard consists of **two main pages**:
 
 ---
 
+## Key Insights
+- 60% of total backlog comes from just 5 specialties.
+- Patients aged 50+ face the longest wait times, with many waiting over 18 months.
+- Seasonal peaks were observed, indicating the need for proactive resource planning.
 

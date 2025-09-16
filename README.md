@@ -69,13 +69,6 @@ The dashboard consists of **two main pages**:
 
 ---
 
-## Key Insights
-- **60% of the backlog** is driven by just **5 specialties**, helping prioritize hospital resources effectively.  
-- Patients **aged 50+** face the **longest waiting times**, with many exceeding **18 months**, indicating a critical area for improvement.  
-- Seasonal peaks in backlog observed during certain months, supporting **proactive planning** for high-demand periods.
-
----
-
 ## Tech Stack
 - **Power BI** – Dashboard design and data visualization  
 - **DAX** – For KPI calculations and dynamic measures  
